@@ -16,3 +16,8 @@ p{
   font-style: oblique;
 font-size: 156;
 }
+
+
+p, h1 {
+color: #3ae6ca;
+}
